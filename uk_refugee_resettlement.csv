@@ -1,0 +1,59 @@
+year,quarter,scheme,nationality,region,local_authority,arrivals,housing_allocated,housing_pending,service_uptake_pct,employment_support,english_language_support,children_in_education,avg_processing_days
+2020,Q1,UKRS,Syrian,South West,Gloucestershire,45,42,3,87,38,41,29,185
+2020,Q1,UKRS,Afghan,South West,Gloucestershire,12,10,2,83,9,11,8,210
+2020,Q1,UKRS,Eritrean,South West,Gloucestershire,8,8,0,90,7,8,5,195
+2020,Q2,UKRS,Syrian,South West,Gloucestershire,38,35,3,85,31,34,22,188
+2020,Q2,UKRS,Afghan,South West,Gloucestershire,15,13,2,80,11,13,9,215
+2020,Q2,Community Sponsorship,Syrian,South West,Gloucestershire,6,6,0,100,5,6,4,170
+2020,Q3,UKRS,Syrian,South West,Gloucestershire,20,18,2,82,15,17,11,192
+2020,Q3,UKRS,Afghan,South West,Gloucestershire,9,8,1,85,7,8,6,205
+2020,Q3,UKRS,Sudanese,South West,Gloucestershire,5,5,0,88,4,5,3,198
+2020,Q4,UKRS,Syrian,South West,Gloucestershire,18,16,2,78,12,14,9,200
+2020,Q4,UKRS,Afghan,South West,Gloucestershire,7,6,1,80,5,6,4,212
+2021,Q1,UKRS,Syrian,South West,Gloucestershire,55,50,5,88,45,50,34,178
+2021,Q1,UKRS,Afghan,South West,Gloucestershire,120,110,10,85,98,108,72,195
+2021,Q1,Afghan Resettlement,Afghan,South West,Gloucestershire,85,78,7,90,70,80,55,160
+2021,Q2,UKRS,Syrian,South West,Gloucestershire,48,45,3,86,39,44,29,180
+2021,Q2,Afghan Resettlement,Afghan,South West,Gloucestershire,210,195,15,92,178,200,138,155
+2021,Q2,Community Sponsorship,Syrian,South West,Gloucestershire,12,12,0,100,10,12,8,165
+2021,Q3,Afghan Resettlement,Afghan,South West,Gloucestershire,380,350,30,91,320,360,248,152
+2021,Q3,UKRS,Eritrean,South West,Gloucestershire,18,17,1,87,15,17,11,185
+2021,Q3,UKRS,Syrian,South West,Gloucestershire,42,39,3,85,35,39,26,182
+2021,Q4,Afghan Resettlement,Afghan,South West,Gloucestershire,290,268,22,89,245,275,190,158
+2021,Q4,UKRS,Syrian,South West,Gloucestershire,38,35,3,84,31,34,22,184
+2022,Q1,Afghan Resettlement,Afghan,South West,Gloucestershire,245,228,17,90,208,234,162,157
+2022,Q1,Ukraine Scheme,Ukrainian,South West,Gloucestershire,680,620,60,88,542,612,420,45
+2022,Q1,UKRS,Syrian,South West,Gloucestershire,35,33,2,83,29,32,21,186
+2022,Q2,Ukraine Scheme,Ukrainian,South West,Gloucestershire,1240,1150,90,91,1004,1128,775,42
+2022,Q2,Afghan Resettlement,Afghan,South West,Gloucestershire,198,182,16,88,168,188,130,160
+2022,Q2,UKRS,Sudanese,South West,Gloucestershire,22,21,1,86,18,20,13,190
+2022,Q3,Ukraine Scheme,Ukrainian,South West,Gloucestershire,890,830,60,90,801,847,582,44
+2022,Q3,Afghan Resettlement,Afghan,South West,Gloucestershire,175,162,13,87,148,166,115,162
+2022,Q3,UKRS,Eritrean,South West,Gloucestershire,25,23,2,88,21,23,15,183
+2022,Q4,Ukraine Scheme,Ukrainian,South West,Gloucestershire,540,502,38,89,486,513,352,46
+2022,Q4,Afghan Resettlement,Afghan,South West,Gloucestershire,155,143,12,86,131,147,102,163
+2023,Q1,Ukraine Scheme,Ukrainian,South West,Gloucestershire,320,298,22,88,288,304,209,48
+2023,Q1,Afghan Resettlement,Afghan,South West,Gloucestershire,95,88,7,85,80,90,62,165
+2023,Q1,UKRS,Syrian,South West,Gloucestershire,28,26,2,82,23,25,17,188
+2023,Q2,Ukraine Scheme,Ukrainian,South West,Gloucestershire,285,266,19,87,256,271,186,50
+2023,Q2,Afghan Resettlement,Afghan,South West,Gloucestershire,78,72,6,84,66,74,51,167
+2023,Q2,Community Sponsorship,Syrian,South West,Gloucestershire,18,18,0,100,15,18,12,162
+2023,Q3,Ukraine Scheme,Ukrainian,South West,Gloucestershire,220,205,15,86,198,209,144,52
+2023,Q3,UKRS,Sudanese,South West,Gloucestershire,35,33,2,88,29,33,22,185
+2023,Q3,Afghan Resettlement,Afghan,South West,Gloucestershire,62,58,4,83,52,58,40,168
+2023,Q4,Ukraine Scheme,Ukrainian,South West,Gloucestershire,195,182,13,85,176,185,127,54
+2023,Q4,UKRS,Eritrean,South West,Gloucestershire,28,26,2,87,23,26,17,182
+2024,Q1,Ukraine Scheme,Ukrainian,South West,Gloucestershire,158,147,11,84,142,150,103,56
+2024,Q1,UKRS,Syrian,South West,Gloucestershire,22,20,2,80,18,20,13,190
+2024,Q1,Afghan Resettlement,Afghan,South West,Gloucestershire,45,42,3,82,38,42,29,170
+2024,Q2,Ukraine Scheme,Ukrainian,South West,Gloucestershire,142,133,9,83,128,135,93,58
+2024,Q2,UKRS,Sudanese,South West,Gloucestershire,30,28,2,86,25,28,18,186
+2024,Q2,Community Sponsorship,Syrian,South West,Gloucestershire,22,22,0,100,18,22,15,160
+2024,Q3,Ukraine Scheme,Ukrainian,South West,Gloucestershire,125,117,8,82,113,119,82,60
+2024,Q3,UKRS,Eritrean,South West,Gloucestershire,20,19,1,86,17,19,13,183
+2024,Q3,Afghan Resettlement,Afghan,South West,Gloucestershire,38,35,3,80,32,35,24,172
+2024,Q4,Ukraine Scheme,Ukrainian,South West,Gloucestershire,110,103,7,81,99,105,72,62
+2024,Q4,UKRS,Syrian,South West,Gloucestershire,18,17,1,79,15,17,11,192
+2025,Q1,Ukraine Scheme,Ukrainian,South West,Gloucestershire,95,89,6,80,86,90,62,64
+2025,Q1,UKRS,Syrian,South West,Gloucestershire,15,14,1,78,12,14,9,194
+2025,Q1,Community Sponsorship,Afghan,South West,Gloucestershire,12,12,0,100,10,12,8,158
